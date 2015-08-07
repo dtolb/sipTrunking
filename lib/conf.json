@@ -1,0 +1,7 @@
+{
+	"CATAPULT_USER_ID" : <userId>,
+	"CATAPULT_API_TOKEN" : <api token>,
+	"CATAPULT_API_SECRET" : <api secret>,
+	"SIP_TRUNKING_DOMAIN_ID" : <domain id>,
+	"NGROK_URL" : <server callback url>
+}

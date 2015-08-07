@@ -1,0 +1,42 @@
+{
+  "name": "sipTrunk",
+  "version": "1.0.0",
+  "description": "sip trunking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test gulp"
+  },
+  "keywords": [
+    "sip",
+    "trunk",
+    "catapult"
+  ],
+  "author": "jhorwitz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bandwidthcom/node-bandwidth/issues"
+  },
+  "homepage": "https://github.com/jhorwitz828/sipTrunking",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "cors": "^2.7.1",
+    "express": "^4.13.1",
+    "node-bandwidth": "^1.0.10",
+    "pg": "^4.4.0"
+  },
+  "devDependencies": {
+    "async": "^0.9.0",
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-istanbul": "^0.10.0",
+    "gulp-jscs": "^1.6.0",
+    "gulp-jshint": "^1.11.0",
+    "gulp-mocha": "^2.1.1",
+    "jshint-stylish": "^2.0.0",
+    "mocha": "^2.0.1",
+    "nock": "^0.50.0",
+    "should": "4.3.0",
+    "sinon": "^1.15.4",
+    "supertest": "^1.0.1"
+  }
+}
