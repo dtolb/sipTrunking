@@ -1,0 +1,28 @@
+body {
+    padding-top: 60px;
+}
+
+hr {
+  width: 100%;
+  padding: 0;
+  border: none;
+  border-top: medium double #333;
+  color: #333;
+  text-align: center;
+}
+
+.hr1 {
+  width: 100%;
+  padding: 0;
+  border: none;
+  text-align: center;
+}
+
+.rowEntry {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.manage {
+  text-align: center;
+}
